@@ -27,4 +27,4 @@ Welcome to the **Netflix Sign-Up & Front Page Clone** — a sleek, responsive we
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/devendrarawat-code/netflix-clone.git
+   git clone https://github.com/devendrarawat-code/Netflix-signup-and-front-page.git
